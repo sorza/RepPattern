@@ -1,0 +1,16 @@
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\bin\Debug\net9.0\BaltaStore.Infrasctructure.deps.json
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\bin\Debug\net9.0\BaltaStore.Infrasctructure.dll
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\bin\Debug\net9.0\BaltaStore.Infrasctructure.pdb
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\bin\Debug\net9.0\BaltaStore.Domain.dll
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\bin\Debug\net9.0\BaltaStore.Domain.pdb
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\obj\Debug\net9.0\BaltaStore.Infrasctructure.csproj.AssemblyReference.cache
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\obj\Debug\net9.0\BaltaStore.Infrasctructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\obj\Debug\net9.0\BaltaStore.Infrasctructure.AssemblyInfoInputs.cache
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\obj\Debug\net9.0\BaltaStore.Infrasctructure.AssemblyInfo.cs
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\obj\Debug\net9.0\BaltaStore.Infrasctructure.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\obj\Debug\net9.0\BaltaStore.Infrasctructure.sourcelink.json
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\obj\Debug\net9.0\BaltaSto.F0AE0994.Up2Date
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\obj\Debug\net9.0\BaltaStore.Infrasctructure.dll
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\obj\Debug\net9.0\refint\BaltaStore.Infrasctructure.dll
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\obj\Debug\net9.0\BaltaStore.Infrasctructure.pdb
+C:\Users\Alexandre Z Durães\Documents\GitHub\RepPattern\BaltaStore\BaltaStore.Infrasctructure\obj\Debug\net9.0\ref\BaltaStore.Infrasctructure.dll
